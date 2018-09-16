@@ -1,0 +1,24 @@
+_repo: Die-Moral-des-Hotels-Tischgesprache_51827
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Vehling, Paul
+    birthdate: 1882
+    gutenberg_agent_id: '46568'
+    url: http://www.gutenberg.org/2009/agents/46568
+description: ''
+gutenberg_issued: '2016-04-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51827'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TX'
+- !lcsh 'Table service'
+- !lcsh 'Hotels'
+- GITenberg
+title: 'Die Moral des Hotels: Tischgespräche'
+url: http://www.gutenberg.org/ebooks/51827
